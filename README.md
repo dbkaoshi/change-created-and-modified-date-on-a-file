@@ -1,12 +1,12 @@
-# ChangeTime - File Timestamp Modifier
+# ChangeDater - File Timestamp Modifier
 
-ChangeTime - [Change Created, Modified, and Accessed Date on a file](https://change-file-date.com)  
-For all types of files, this is a simple, safe, and privacy-protecting tool to change file timestamps (Created, Modified, and Accessed Date) on files.
+ChangeTime - [Change Created and Modified Date on a file](https://change-file-date.com)  
+For all types of files, this is a simple, safe, and privacy-protecting tool to change file timestamps (Created and Modified Date) on a file.
 
 
 ## Features
 
-- Modify file creation, modification, and access times
+- Modify file creation and  modification time
 - User-friendly interface
 - Timezone-aware timestamp modifications
 - Privacy-focused: no data storage
@@ -18,5 +18,5 @@ For all types of files, this is a simple, safe, and privacy-protecting tool to c
 ## How to use
 
 - 1.Select Files: Choose the files you want to modify from your computer
-- 2.Set Times: Set modified, created, and accessed date which you want to change for the selected files
+- 2.Set Times: Set modified and created date which you want to change for the selected files
 - 3.Download: Click "Modify Timestamps" button and get your modified files instantly
